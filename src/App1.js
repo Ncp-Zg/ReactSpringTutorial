@@ -16,7 +16,6 @@ const App1 = () => {
     //generate random number
     
     const randomNumber = Math.floor(Math.random()*999)
-console.log(props.val)
     //get rid of decimals
     return (
         <div className="App">
